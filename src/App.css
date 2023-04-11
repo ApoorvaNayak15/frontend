@@ -1,0 +1,68 @@
+*{
+  margin:0px;
+  padding: 0px;
+  
+}
+body{
+  
+  color:black;
+   display: flex;
+  justify-content: center;
+  box-sizing: border-box; 
+ 
+}
+h1{
+  text-transform: uppercase;
+  width:200px;
+  padding: 04px;
+
+}
+.container{
+  box-sizing: border-box;
+ 
+  font-style: none;
+  width:20px;
+ 
+}
+.empty{
+ padding-top: 20px;
+  font-size: small;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  box-sizing: content-box;
+  
+  border-radius: 20px;
+  width:50px;
+  height:20px;
+}
+.waste{
+  padding:5px;
+  transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+ cursor: pointer;
+ position: relative;
+}
+.waste1{
+  padding:5px;
+  transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+ cursor: pointer;
+ position: relative;
+}
+.waste2{
+  padding:5px;
+  transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+ cursor: pointer;
+ position: relative;
+}
+.waste3{
+ width:50px;
+ height:30px;
+ padding-top: 5px;;
+ justify-content: center;
+ cursor: pointer;
+ display: flex;
+ border-radius: 5px;;
+ text-align: center;
+ background-origin: aqua;
+
+}
